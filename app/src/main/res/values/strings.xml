@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Submission_Android_Pemula</string>
+    <string name="anim_name">Nama Hewan</string>
+    <string name="detail">Detail</string>
+    <string name="title_action_about_me">About Me</string>
+    <string name="action_about">About</string>
+</resources>
